@@ -199,7 +199,7 @@ def show_create_room():
             st.markdown("### 📱 Links para os jogadores:")
 
             # URLs para cada jogador
-            base_url = "http://localhost:8501"  # Mude para sua URL quando fizer deploy
+            base_url = "itocardgame.streamlit.app"  # Mude para sua URL quando fizer deploy
 
             for i, player in enumerate(player_names):
                 encoded_name = player.replace(" ", "%20")

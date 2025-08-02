@@ -1,0 +1,248 @@
+{
+  "1WF02O": {
+    "room_code": "1WF02O",
+    "players": [
+      "Jogador 1",
+      "Jogador 2",
+      "Jogador 3",
+      "Jogador 4"
+    ],
+    "current_round": 1,
+    "max_rounds": 5,
+    "cards_per_round": {},
+    "results": {},
+    "created_at": "2025-08-02T14:55:24.064885",
+    "status": "waiting"
+  },
+  "O4A8E9": {
+    "room_code": "O4A8E9",
+    "players": [
+      "Jogador 1",
+      "Jogador 2",
+      "Jogador 3",
+      "Jogador 4"
+    ],
+    "current_round": 2,
+    "max_rounds": 5,
+    "cards_per_round": {
+      "1": {
+        "Jogador 1": [
+          87
+        ],
+        "Jogador 2": [
+          14
+        ],
+        "Jogador 3": [
+          59
+        ],
+        "Jogador 4": [
+          20
+        ]
+      }
+    },
+    "results": {
+      "1": {
+        "played_order": [
+          14,
+          20,
+          59,
+          87
+        ],
+        "correct_order": [
+          14,
+          20,
+          59,
+          87
+        ],
+        "is_correct": true,
+        "timestamp": "2025-08-02T15:01:36.163367"
+      }
+    },
+    "created_at": "2025-08-02T14:58:15.152765",
+    "status": "waiting"
+  },
+  "T9VD8F": {
+    "room_code": "T9VD8F",
+    "players": [
+      "Jogador 1",
+      "Jogador 2",
+      "Jogador 3",
+      "Jogador 4"
+    ],
+    "current_round": 2,
+    "max_rounds": 3,
+    "cards_per_round": {
+      "1": {
+        "Jogador 1": [
+          52
+        ],
+        "Jogador 2": [
+          34
+        ],
+        "Jogador 3": [
+          93
+        ],
+        "Jogador 4": [
+          82
+        ]
+      },
+      "2": {
+        "Jogador 1": [
+          57,
+          42
+        ],
+        "Jogador 2": [
+          99,
+          72
+        ],
+        "Jogador 3": [
+          26,
+          92
+        ],
+        "Jogador 4": [
+          79,
+          70
+        ]
+      }
+    },
+    "results": {
+      "1": {
+        "played_order": [
+          34,
+          82,
+          52,
+          93
+        ],
+        "correct_order": [
+          34,
+          52,
+          82,
+          93
+        ],
+        "is_correct": false,
+        "timestamp": "2025-08-02T15:07:35.030572"
+      }
+    },
+    "created_at": "2025-08-02T15:05:00.311317",
+    "status": "playing"
+  },
+  "1NTT2F": {
+    "room_code": "1NTT2F",
+    "players": [
+      "Igor",
+      "Acza",
+      "JF",
+      "Kakaw"
+    ],
+    "current_round": 1,
+    "max_rounds": 2,
+    "cards_per_round": {
+      "1": {
+        "Jogador 1": [
+          58
+        ],
+        "Jogador 2": [
+          8
+        ],
+        "Jogador 3": [
+          6
+        ],
+        "Jogador 4": [
+          16
+        ]
+      }
+    },
+    "results": {},
+    "created_at": "2025-08-02T15:13:35.447759",
+    "status": "playing"
+  },
+  "XOIE7G": {
+    "room_code": "XOIE7G",
+    "players": [
+      "Igor",
+      "Acza",
+      "JF",
+      "Kakaw"
+    ],
+    "current_round": 2,
+    "max_rounds": 2,
+    "cards_per_round": {
+      "1": {
+        "Igor": [
+          67
+        ],
+        "Acza": [
+          72
+        ],
+        "JF": [
+          11
+        ],
+        "Kakaw": [
+          43
+        ]
+      },
+      "2": {
+        "Igor": [
+          48,
+          71
+        ],
+        "Acza": [
+          42,
+          39
+        ],
+        "JF": [
+          76,
+          93
+        ],
+        "Kakaw": [
+          41,
+          55
+        ]
+      }
+    },
+    "results": {
+      "1": {
+        "played_order": [
+          67,
+          11,
+          72,
+          43
+        ],
+        "correct_order": [
+          11,
+          43,
+          67,
+          72
+        ],
+        "is_correct": false,
+        "timestamp": "2025-08-02T15:32:57.537993"
+      },
+      "2": {
+        "played_order": [
+          48,
+          39,
+          42,
+          71,
+          76,
+          41,
+          55,
+          93
+        ],
+        "correct_order": [
+          39,
+          41,
+          42,
+          48,
+          55,
+          71,
+          76,
+          93
+        ],
+        "is_correct": false,
+        "timestamp": "2025-08-02T15:33:47.772871"
+      }
+    },
+    "created_at": "2025-08-02T15:19:11.064681",
+    "status": "playing"
+  }
+}
